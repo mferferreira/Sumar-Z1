@@ -9,7 +9,7 @@ namespace Sumar.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class sumaController : ControllerBase
+    public class SumaController : ControllerBase
     {
         [HttpGet]
         [Route("Add")]
